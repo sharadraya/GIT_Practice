@@ -1,5 +1,0 @@
-This is Pratik Shrestha.
-
-This is git practice.
-
-This is new edit for dev branch.
