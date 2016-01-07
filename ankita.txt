@@ -1,0 +1,2 @@
+This is our Git Session
+a new line added
